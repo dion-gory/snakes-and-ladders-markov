@@ -1,6 +1,6 @@
 # How long does a game of snakes and ladders last?
 
-Code for the article: a Monte Carlo simulation of one board, then the exact answer
+Code for the article [How long does a game of snakes and ladders last?](https://medium.com/@diongory/how-long-does-a-game-of-snakes-and-ladders-last-db012ee9480a): a Monte Carlo simulation of one board, then the exact answer
 from an absorbing Markov chain.
 
 | | Average rolls |
